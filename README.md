@@ -27,7 +27,7 @@ workflows. I am applying for an MSc in Artificial Intelligence.
 | Project | What it is | Stack |
 |---|---|---|
 | [**Multimodal Deepfake Detection with XAI**](https://github.com/Modin-77/multimodal-deepfake-detection-xai) | Final-year research project: audio-visual detector (custom SE-ResNet + Wav2Vec2) over a three-generation deepfake corpus (face swap, lip-sync/voice cloning, diffusion), with Grad-CAM++ explanations and a documented negative-result ablation | PyTorch, Wav2Vec2, Grad-CAM++ |
-| [**Thermal Image Super-Resolution**](https://github.com/Modin-77/TISR) | Super-resolution of thermal (LWIR) images with SRCNN and a lightweight autoencoder on FLIR ADAS, evaluated with PSNR/SSIM and downstream YOLOv8 detection | TensorFlow, YOLOv8 |
+| [**Thermal Image Super-Resolution**](https://github.com/Modin-77/TISR) | Super-resolution of thermal (LWIR) images on FLIR ADAS: lightweight 128×128 autoencoder/SRCNN and a 256×256 SRCNN pipeline (PSNR 33.18 dB, SSIM 0.89) with YOLOv8 on the outputs. Joint work with M. H. Mushtaq | TensorFlow, YOLOv8 |
 | [**Deepfake Detection: CNN vs ResNet-50**](https://github.com/Modin-77/DeepFake-Detection-Analysis) | Comparative study on 140k real/StyleGAN faces with a contrast-enhancement data pipeline | CNN, ResNet-50 |
 | [**ML Portfolio**](https://github.com/Modin-77/ML-Portfolio) | NLP (BERT / BiLSTM NER, cyberbullying classification) and computer-vision coursework projects | scikit-learn, BERT, CNNs |
 
