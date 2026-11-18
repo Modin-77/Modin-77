@@ -6,7 +6,7 @@ I hold a BS in Artificial Intelligence from the National University of Technolog
 My final-year research built audio-visual deepfake detectors that also explain *what kind* of
 manipulation they found and *where* the evidence lies. I now work as a ServiceNow developer on IT
 service management, strategic portfolio management and change processes, automating enterprise
-workflows. I am applying for an Masters.
+workflows. I am applying for Masters.
 
 ---
 
